@@ -43,7 +43,7 @@ public class TestArrayList {
             System.out.print(obj+" ");
         }
         System.out.println();
-        //Note that the memory address is dynamic,so the output is not continuous as expected.
+        //Note that the memory address is dynamic,so the output is not continuous as expected.SO please be careful
 
         ArrayListClass b = new ArrayListClass(m);
         for(int i=1;i<=m;i++){
